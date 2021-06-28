@@ -7,7 +7,7 @@
   border-radius: 50%;
 }
 .bigass {
-  width: 30%;
-  height: 30%;
+  width: 23%;
+  height: 23%;
 }
 </style>
